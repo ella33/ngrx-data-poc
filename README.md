@@ -1,5 +1,9 @@
 # BtTheme
 
+The purpose of this project is to ilustrate the use of:
+- Angular Bootstrap for UI
+- NgRx data for server calls and state management
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
